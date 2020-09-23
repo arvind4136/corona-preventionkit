@@ -13,7 +13,7 @@ import com.application.model.Product;
 
 public class ProductDaoJdbcImpl implements ProductDao {
 
-	private String jdbcURL = "jdbc:mysql://localhost:3306/aravinddemo?useSSL=false";
+	private String jdbcURL = "jdbc:mysql://localhost:3306/spandana?useSSL=false";
 	private String jdbcUsername = "root";
 	private String jdbcPassword = "root";
 	
